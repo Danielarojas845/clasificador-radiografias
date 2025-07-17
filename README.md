@@ -93,6 +93,12 @@ AUC ROC: 0.94
 
 Recall para clase PNEUMONIA: 0.99
 
+## 🧪 Ejecutar en Google Colab
+
+Puedes probar este proyecto directamente desde Google Colab:
+
+👉 [Abrir en Google Colab](https://colab.research.google.com/drive/1qfFWALQkLJH_Udz5SCVjODbbwOF0M9Sa?usp=sharing)
+
 👩‍💼 Autora
 Daniela Rojas
 Enfermera e Ingeniera Comercial | Data Scientist | Apasionada por la salud digital y la inteligencia artificial aplicada a medicina.

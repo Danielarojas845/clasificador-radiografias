@@ -31,7 +31,7 @@ Se utilizó el dataset de Kaggle: [Chest X-Ray Images (Pneumonia)](https://www.k
 Este proyecto incluye dos modelos entrenados con Keras para clasificación binaria:
 
 - `modelo_afinado_tuning.keras`: CNN ajustada con tuning de hiperparámetros  
-- `modelo_2_ensamble.keras`: Modelo con Transfer Learning usando MobileNetV2  
+- `modelo_2_ensamble.keras`: Modelo estandar, para hacer ensamble.  
 
 📌 **Estrategia de ensamble**: Promedio simple de ambas salidas para robustecer el diagnóstico.
 

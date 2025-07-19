@@ -1,13 +1,7 @@
-# Carpetas temporales y entorno virtual
+# Evita subir pesos de modelos grandes
+*.keras
+*.h5
+
+# Evita carpetas de Python y Jupyter
 __pycache__/
 .ipynb_checkpoints/
-venv/
-
-# Pesos de modelos y datos
-*.keras
-*.pkl
-*.zip
-
-# Carpetas grandes locales (si decides no subirlas)
-modelo_2_ensamble/
-modelo_afinado_tuning/

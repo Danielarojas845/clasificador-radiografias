@@ -101,7 +101,7 @@ Puedes probar este proyecto directamente desde Google Colab:
 
 👩‍💼 Autora
 Daniela Rojas
-Enfermera e Ingeniera Comercial | Data Scientist | Apasionada por la salud digital y la inteligencia artificial aplicada a medicina.
+Enfermera e Ingeniera Comercial | Data Scientist | Con interés por la salud digital y la inteligencia artificial aplicada a medicina.
 
 📃 Licencia
 Este proyecto se distribuye bajo la licencia Credly by Pearson.
